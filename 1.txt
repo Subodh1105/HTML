@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Student information</title>
+</head>
+<body bgcolor="LightGray">
+
+<form>
+ first name:	<br>
+<input type="text" name="firstname"><br>
+ last name:	<br>
+<input type="text" name="lastname"><br>
+ Age:		<br>
+<input type="number" name="age"><br>
+
+<input type="radio" name="gender" value="male" >Male<br>
+<input type="radio" name="gender" value="female" >Female<br>
+<input type="radio" name="gender" value="others">others<br>
+<input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
